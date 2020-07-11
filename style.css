@@ -1,5 +1,5 @@
 *{
-    margin: 0;
+    margin: 1;
     padding: 0;
 }
 
@@ -18,7 +18,7 @@
 }
 
 .one{
-    height: 57.5rem;
+    height: 58.5rem;
     width: 180px;
     background: #333333;
     display: flex;
