@@ -1,5 +1,4 @@
 
-
 let a = document.querySelector("#out");
 const but = document.querySelector("button");
 const arrcolor = ["black", "red", "green", "grey", "white", "blue"];
